@@ -31,3 +31,37 @@ Para resolver isso, a automação identifica os inputs através de atributos est
 - Automação resiliente
 - Normalização de colunas do Excel
 - Screenshot final da execução
+
+---
+
+## Resultado
+
+✅ 100% de sucesso (70/70 campos)
+
+---
+
+## Como executar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/SEU_USUARIO/rpa-challenge.git
+```
+
+Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+```
+
+Execute o projeto:
+
+```bash
+python main.py
+```
+
+---
+
+## Screenshot
+
+<img src="screenshots/final.png" width="800">
